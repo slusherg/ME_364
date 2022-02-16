@@ -1,0 +1,13 @@
+This is the data for Airfoil Noise measurements. This  is the data set for the experiments done by NASA on a series of airfoils to measure the noise generated due to the fluid-solid interaction in a wind tunnel. 
+This data set is a CSV file and it is located at https://raw.githubusercontent.com/MasoudMiM/ME_364/main/Airfoil_noise/Airfoil_Noise.csv. The file has no header to describe the values in each column but the description of the data is given here: https://raw.githubusercontent.com/MasoudMiM/ME_364/main/Airfoil_noise/READ_ME.
+
+Therefore, we know that the first five columns are:
+
+Frequency, in Hertzs.
+Angle of attack, in degrees.
+Chord length, in meters.
+Free-stream velocity, in meters per second.
+Suction side displacement thickness, in meters.
+and the last column is:
+
+Scaled sound pressure level, in decibels.
